@@ -30,6 +30,10 @@ public class Service {
 		this.libelle = libelle;
 		this.interlocuteur = interlocuteur;
 	}
+	public Service() {
+		super ();
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 
